@@ -70,7 +70,7 @@ def removeElement():
 def countElement():
     numberInputCount = int(input("Enter the number for which you want to know the occurrence in the list: "))
     numberCount = list.count(numberInputCount)
-    print(f"The number {numberInputCount} was shown {numberCount} in the list.")
+    print(f"The number {numberInputCount} was shown {numberCount} times in the list.")
 
 # arranging elements in ascending order
 def ascendingOrderElements():
