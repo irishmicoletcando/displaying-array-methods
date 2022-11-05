@@ -8,3 +8,6 @@
 
 # Note: 
 # - The program has an array variable containing 10 random numbers
+
+array = [2, 4, 6, 10, 1, 3, 9, 7, 8, 5]
+print(array)
