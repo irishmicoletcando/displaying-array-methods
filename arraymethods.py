@@ -101,6 +101,7 @@ def startProgram ():
     elif menu == 8:
         descendingOrderElements()
     print(f"This is the new array. Array = {list}")
+
 def startAgain():
     while True:
         tryAgainInput = input("Do you want to try again? Y/N: ")
